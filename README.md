@@ -1,6 +1,3 @@
-#### Team No: 3
-#### Roll No.s - 2020201037, 2020201065, 2020201052, 020201046
-#### SNS Assignment - 1
 ## IIITH-Whatsapp
 ***
 
