@@ -44,9 +44,3 @@ Below are the libraries that are in the project and some are need to be installe
 	$ python3 client.py <server_ip:server_port> <client's_ip:client's_port>
 4. Now run the above commands and enjoy our Whatsapp!
 
-### Screenshots folder
-1. 'how to run files.png': shows command to run server.py and client.py files
-2. 'sigin,signup,send_msg.png' : commands to signup, signin and sending message to any peer
-3. 'sending file.png' : shows how a file is send to an indivisual peer
-4. 'groups working.png' : shows all the working of the groups part, i.e. create_group, join_group, list_group, send_message in the group and send_file in the group.
-5. 'error handling.png' : shows error handling part.
